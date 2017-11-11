@@ -6,7 +6,7 @@
 
 1. Login to the URL you've been assigned by running:
 ```
-ssh test@ip -i path/to/pemfile
+ssh julia@ip -i path/to/pemfile
 ```
 or [login via PuTTy](https://devops.profitbricks.com/static/img/tutorials/linux/putty_ssh_auth.png).
 
