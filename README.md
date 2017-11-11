@@ -1,5 +1,7 @@
 # Julia Workshop Intel HPC DevCon 2017
 
+# This URL : github.com/JuliaComputing/HPCDC
+
 ## Instructions 
 
 0. Download the ssh key at the URL given on your sheet by entering it on your browser. 
