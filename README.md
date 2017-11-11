@@ -2,10 +2,14 @@
 
 ## Instructions 
 
+0. Download the ssh key at the URL given on your sheet by entering it on your browser. 
+
 1. Login to the URL you've been assigned by running:
 ```
-ssh user@ip -i path/to/pemfile
+ssh test@ip -i path/to/pemfile
 ```
+or [login via PuTTy](https://devops.profitbricks.com/static/img/tutorials/linux/putty_ssh_auth.png).
+
 2. Run the following commands:
 ```
 cd HPCDC
@@ -30,7 +34,7 @@ http://0.0.0.0:8888?token=SomeAlphaNumericCode
 3. Click the 'Start' button to begin the installation process.
 
 4. Clone these notebooks onto your instance: 
-    - Copy `https://github.com/ranjanan/HPCDC.git`
+    - Copy `https://github.com/JuliaComputing/HPCDC.git`
     - Click 'Git', paste. 
     - Click on the '+' button. 
 
